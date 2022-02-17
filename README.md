@@ -3,8 +3,7 @@
 - 🔭 Atualmente estou buscando uma oportunidade de Estágio
 - 🌱 Cursando Bacharelado em Engenharia de Software
 - 📫 Contate-me no email: kesslerisaack@gmail.com
-- ⚡ Apaixonado por tecnologia e desenvolvimento pessoal.
-##
+- ⚡ Apaixonado por tecnologia.
 
 <div align="center">
   <a href="https://github.com/isaacfkessler">
