@@ -1,4 +1,4 @@
-### Oi, Tudo bem? 👋
+## Oi, Tudo bem? 👋
 
 Meu nome é Isaac, eu tenho 19 anos e estou cursando Bacharelado em Engenharia de Software. Sou muito proativo e procuro sempre me desenvolver o máximo possível realizando cursos e buscando conhecimentos de diversas fontes diferentes. Atualmente estou em busca de uma oportunidade de estágio para entrar no mercado de trabalho de TI, para assim potencializar ainda mais o meu aprendizado.
 #
