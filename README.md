@@ -1,6 +1,6 @@
 ## Oi, Tudo bem? 👋
 
-Meu nome é Isaac, eu tenho 19 anos e estou cursando Bacharelado em Engenharia de Software. Sou muito proativo e procuro sempre me desenvolver o máximo possível realizando cursos e buscando conhecimentos de diversas fontes diferentes. Atualmente estou em busca de uma oportunidade de estágio para entrar no mercado de trabalho de TI para assim, potencializar ainda mais o meu aprendizado.
+Meu nome é Isaac, eu tenho 20 anos e estou cursando Bacharelado em Engenharia de Software. Sou muito proativo e procuro sempre me desenvolver o máximo possível realizando cursos e buscando conhecimentos de diversas fontes diferentes. Atualmente estou em busca de uma oportunidade de estágio para entrar no mercado de trabalho de TI para assim, potencializar ainda mais o meu aprendizado.
 #
 ### Até o atual momento, possuo conhecimentos em:
 - HTML e CSS
@@ -11,7 +11,7 @@ Meu nome é Isaac, eu tenho 19 anos e estou cursando Bacharelado em Engenharia d
 - Conceitos de Segurança da Informação
 #
 
-- 🔭 Atualmente buscando uma oportunidade de Estágio
+- 🔭 Atualmente estou estudando JavaScript
 - 🌱 Cursando Bacharelado em Engenharia de Software
 - 📫 Contate-me no email: kesslerisaack@gmail.com
 - ⚡ Apaixonado por tecnologia.
@@ -24,7 +24,10 @@ Meu nome é Isaac, eu tenho 19 anos e estou cursando Bacharelado em Engenharia d
   <div style="display: inline_block"><br>
   <img align="center" alt="Isaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Isaac-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Isaac-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Isaac-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Isaac-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
     
   ##
