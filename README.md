@@ -1,6 +1,6 @@
 ## Oi, Tudo bem? 👋
 
-Meu nome é Isaac, eu tenho 20 anos e estou cursando Bacharelado em Engenharia de Software. Sou muito proativo e procuro sempre me desenvolver o máximo possível realizando cursos e buscando conhecimentos de diversas fontes diferentes. Atualmente estou em busca de uma oportunidade de estágio para entrar no mercado de trabalho de TI para assim, potencializar ainda mais o meu aprendizado.
+Meu nome é Isaac, eu tenho 20 anos e estou cursando Bacharelado em Engenharia de Software. Sou muito proativo e procuro sempre me desenvolver o máximo possível realizando cursos e buscando conhecimentos de diversas fontes diferentes. Atualmente estou estágiando na área de TI, com foco em ganhar conhecimento, crescer profissionalmente e agregar o maior valor possível na empresa onde eu trabalho.
 #
 ### Até o atual momento, possuo conhecimentos em:
 - HTML e CSS
