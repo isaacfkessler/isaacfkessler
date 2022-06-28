@@ -5,6 +5,7 @@ Meu nome é Isaac, eu tenho 20 anos e estou cursando Bacharelado em Engenharia d
 ### Até o atual momento, possuo conhecimentos em:
 - HTML e CSS
 - Python
+- Hardware
 - Versionamento Git/GitHub
 - SQL
 - Metodologia ágil e SCRUM
