@@ -8,11 +8,13 @@ Meu nome é Isaac, eu tenho 20 anos e estou cursando Bacharelado em Engenharia d
 - Hardware
 - Versionamento Git/GitHub
 - SQL
+- ITIL
+- Figma
 - Metodologia ágil e SCRUM
 - Conceitos de Segurança da Informação
 #
 
-- 🔭 Atualmente estou estudando JavaScript
+- 🔭 Atualmente estou trabalhando com TI
 - 🌱 Cursando Bacharelado em Engenharia de Software
 - 📫 Contate-me no email: kesslerisaack@gmail.com
 - ⚡ Apaixonado por tecnologia.
@@ -25,7 +27,6 @@ Meu nome é Isaac, eu tenho 20 anos e estou cursando Bacharelado em Engenharia d
   <div style="display: inline_block"><br>
   <img align="center" alt="Isaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Isaac-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Isaac-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Isaac-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Isaac-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
