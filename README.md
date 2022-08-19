@@ -12,6 +12,7 @@ Meu nome é Isaac, eu tenho 20 anos e estou cursando Bacharelado em Engenharia d
 - Figma
 - Metodologia ágil e SCRUM
 - Conceitos de Segurança da Informação
+- Virtualização - VMware, Hyper-V e VirtualBox
 #
 
 - 🔭 Atualmente estou trabalhando com TI
