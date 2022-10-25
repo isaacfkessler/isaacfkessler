@@ -9,6 +9,10 @@ Meu nome é Isaac, eu tenho 20 anos e estou cursando Bacharelado em Engenharia d
 - Versionamento Git/GitHub
 - SQL
 - ITIL
+- Power BI
+- Postman API
+- Zabbix
+- Windows Server (Active Directory)
 - Figma
 - Metodologia ágil e SCRUM
 - Conceitos de Segurança da Informação
