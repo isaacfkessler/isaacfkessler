@@ -12,6 +12,7 @@ Meu nome é Isaac, eu tenho 20 anos e estou cursando Bacharelado em Engenharia d
 - Power BI
 - Postman API
 - Zabbix
+- Grafana
 - Windows Server (Active Directory)
 - Metodologia ágil e SCRUM
 - Conceitos de Segurança da Informação
