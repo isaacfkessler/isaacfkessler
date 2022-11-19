@@ -13,7 +13,6 @@ Meu nome é Isaac, eu tenho 20 anos e estou cursando Bacharelado em Engenharia d
 - Postman API
 - Zabbix
 - Windows Server (Active Directory)
-- Figma
 - Metodologia ágil e SCRUM
 - Conceitos de Segurança da Informação
 - Virtualização - VMware, Hyper-V e VirtualBox
