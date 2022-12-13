@@ -8,6 +8,7 @@ Meu nome é Isaac, eu tenho 20 anos e estou cursando Bacharelado em Engenharia d
 - Hardware
 - Versionamento Git/GitHub
 - SQL
+- Docker
 - ITIL
 - Power BI
 - Postman API
