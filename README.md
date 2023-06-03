@@ -5,13 +5,10 @@ Meu nome é Isaac, eu tenho 20 anos e estou cursando Bacharelado em Engenharia d
 ### Até o atual momento, possuo conhecimentos em:
 - HTML e CSS
 - Python
-- Hardware
+- Linux
 - Versionamento Git/GitHub
 - SQL
 - Docker
-- ITIL
-- Power BI
-- Postman API
 - Zabbix
 - Grafana
 - Windows Server (Active Directory)
