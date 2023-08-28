@@ -7,15 +7,13 @@ Meu nome é Isaac, eu tenho 21 anos e estou cursando Bacharelado em Engenharia d
 - Python
 - Servidores Linux
 - Versionamento Git/GitHub
-- AWS
+- Cloud Computing: AWS
 - SQL
-- Docker
-- Terraform
-- Zabbix
-- Grafana
+- Docker e Kubernetes
+- IaC: Terraform, Ansible e Vagrant
+- Observability: Zabbix e Grafana
 - Windows Server
-- Metodologia ágil e SCRUM
-- Conceitos de Segurança da Informação
+- Conceitos de Segurança da Informação e certificações Fortinet NSE 1 e NSE 2
 - Virtualização - VMware, Hyper-V e VirtualBox
 #
 
