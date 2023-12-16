@@ -7,7 +7,7 @@ Meu nome é Isaac, eu tenho 21 anos e estou cursando Bacharelado em Engenharia d
 - Python
 - Servidores Linux
 - Versionamento Git/GitHub
-- Cloud Computing: AWS
+- Cloud Computing: AWS, GCP e Azure
 - SQL
 - Docker e Kubernetes
 - IaC: Terraform, Ansible e Vagrant
@@ -18,7 +18,7 @@ Meu nome é Isaac, eu tenho 21 anos e estou cursando Bacharelado em Engenharia d
 #
 
 - 🔭 Atualmente estou trabalhando com TI
-- 🌱 Cursando 4 semestre do Bacharelado em Engenharia de Software
+- 🌱 Cursando 5 semestre do Bacharelado em Engenharia de Software
 - 📫 Contate-me no email: kesslerisaack@gmail.com
 - ⚡ Apaixonado por tecnologia.
 
