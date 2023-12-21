@@ -1,26 +1,18 @@
-## Oi, Tudo bem? 👋
+## Hi,
 
-Meu nome é Isaac, eu tenho 21 anos e estou cursando Bacharelado em Engenharia de Software. Sou muito proativo e procuro sempre me desenvolver o máximo possível realizando cursos e buscando conhecimentos de diversas fontes diferentes. Atualmente estou trabalhando na área de TI, com foco em ganhar conhecimento, crescer profissionalmente e agregar o maior valor possível na empresa onde eu trabalho.
-#
-### Até o atual momento, possuo conhecimentos em:
-- HTML e CSS
-- Python
-- Servidores Linux
-- Versionamento Git/GitHub
-- Cloud Computing: AWS, GCP e Azure
-- SQL
-- Docker e Kubernetes
-- IaC: Terraform, Ansible e Vagrant
-- Observability: Zabbix e Grafana
-- Windows Server
-- Conceitos de Segurança da Informação e certificações Fortinet NSE 1 e NSE 2
-- Virtualização - VMware, Hyper-V e VirtualBox
+My name is Isaac F. Kessler and I'm a devops engineer and bachelor's degree student in Software Engineering.
+
+I'm passionate about DevOps culture, infrastructure and Software Engineering, from code development to agile delivery in production environments.
+
+I have experience with Jenkins, Linux, Ansible, Terraform, AWS, Windows Server, Zabbix, Grafana, Docker, Git, Shell Script among other tools.
+
+In the corporate world, I have led a CI-CD implementation project with Jenkins, designed solutions in AWS, implemented Ansible for configuration management and 2 server monitoring system implementations with Zabbix and Grafana.
 #
 
-- 🔭 Atualmente estou trabalhando com TI
-- 🌱 Cursando 5 semestre do Bacharelado em Engenharia de Software
-- 📫 Contate-me no email: kesslerisaack@gmail.com
-- ⚡ Apaixonado por tecnologia.
+- 🔭 Currently working with web application infrastructure support
+- 🌱 Studying 5 semester of the Bachelor's degree in Software Engineering
+- 📫 Contact me at email: kesslerisaack@gmail.com
+- ⚡ Passionate for technology and DevOps culture.
 
 <div align="center">
   <a href="https://github.com/isaacfkessler">
