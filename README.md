@@ -1,6 +1,6 @@
 ## Hi,
 
-My name is Isaac F. Kessler and I'm a devops engineer and bachelor's degree student in Software Engineering.
+My name is Isaac F. Kessler and I'm a DevOps Engineer and bachelor's degree student in Software Engineering.
 
 I'm passionate about DevOps culture, infrastructure and Software Engineering, from code development to agile delivery in production environments.
 
