@@ -9,7 +9,7 @@ I have experience with Jenkins, Linux, Ansible, Terraform, AWS, Windows Server, 
 In the corporate world, I have led a CI-CD implementation project with Jenkins, designed solutions in AWS, implemented Ansible for configuration management and server monitoring system implementations with Zabbix and Grafana.
 #
 
-- 🔭 Currently working with web application infrastructure support
+- 🔭 Currently working with Infrastructure and DevOps
 - 🌱 Studying 5 semester of the Bachelor's degree in Software Engineering
 - 📫 Contact me at email: kesslerisaack@gmail.com
 - ⚡ Passionate for technology and DevOps culture.
