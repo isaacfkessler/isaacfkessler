@@ -10,7 +10,7 @@ In the corporate world, I have led a CI-CD implementation project with Jenkins, 
 #
 
 - 🔭 Currently working with Infrastructure and DevOps
-- 🌱 Studying 5 semester of the Bachelor's degree in Software Engineering
+- 🌱 Studying 6 semester of the Bachelor's degree in Software Engineering
 - 📫 Contact me at email: kesslerisaack@gmail.com
 - ⚡ Passionate for technology and DevOps culture.
 
