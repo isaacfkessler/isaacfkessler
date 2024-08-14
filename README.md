@@ -4,7 +4,7 @@ My name is Isaac F. Kessler and I'm a DevOps Engineer and bachelor's degree stud
 
 I'm passionate about DevOps culture, infrastructure and Software Engineering, from code development to agile delivery in production environments.
 
-I have experience with Jenkins, Linux, Ansible, Terraform, AWS, Windows Server, Zabbix, Grafana, Docker, Git, Shell Script among other tools.
+I have experience with Jenkins, GitHub Actions, Amazon ECS, Observability, Linux, Ansible, Terraform, AWS, Windows Server, Zabbix, Grafana, Datadog, Docker, Git, Shell Script, Cloudformation among other tools.
 
 In the corporate world, I have led a CI-CD implementation project with Jenkins, designed solutions in AWS, implemented Ansible for configuration management and server monitoring system implementations with Zabbix and Grafana.
 #
